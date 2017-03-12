@@ -16,4 +16,5 @@ Create a *data* folder and extract the archive directly into there, so that the 
     * ...
 
 ## Results
-After 50 episodes of training, I reached an accuracy of 97.5%.
+The network achieves ~97.5% accuracy (I know, I know, on the training set) after the training.
+This could probably be improved more, but for a limited time effort, this makes a solid result. To really verify performance though, you should create a test set.<Paste>
